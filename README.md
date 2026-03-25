@@ -9,3 +9,9 @@ Playful interactive Valentine web app featuring music, animated visuals and a dy
 ![Will You Be My Valentine's Demo](/demo.gif)
 
 Try it out for yourself! [Live Demo](https://michellely825.github.io/Operation-Bearentine/)
+
+## Tech-Stack
+
+- Javascript
+- HTML
+- CSS
