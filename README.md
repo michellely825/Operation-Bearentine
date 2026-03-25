@@ -2,7 +2,7 @@
 
 ## Overview
 
-Playful interactive Valentine web app featuring music, animated visuals and a dynamic "No" button to guide users through a humorous decision flow.
+A playful, fun and interactive Valentine's Day web app I made for my partner. Features background music, animated visuals, and a humorous decision flow where the "No" button dynamically moves to guide users toward the right answer.
 
 ## Demo
 
